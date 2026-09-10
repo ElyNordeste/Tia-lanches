@@ -126,10 +126,10 @@ margin-top: 5%;
 .final{
 
 	margin-top: 5%;
-	width: 1345px; 
-	height: 300px; 
+	width: 100%; 
+	height: 30%; 
 	background-color: #FF921C; 
-	border-radius: 10px;
+	border-radius: 10%;
 
 }
 
@@ -137,8 +137,8 @@ margin-top: 5%;
 
 	color: white; 
 	text-align: center; 
-	font-size: 30px;
-	margin-top: -25%;
+	font-size: 100%;
+	margin-top: -15%;
 }
 
 .imagemLocalizacao{
