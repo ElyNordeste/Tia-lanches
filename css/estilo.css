@@ -55,18 +55,6 @@ margin-top: 7%;
 
 }
 
-
-.barra3{
-
-width: 100%;
-height: 50px;
-background-color: #FF921C;
-margin-top: 5%;
-
-}
-
-
-
 .tipos{
 
 	color: white;
@@ -80,7 +68,6 @@ margin-top: 5%;
 
 .prateleira{
 
-display: flex;
 width: 100%;
 
 }
@@ -116,7 +103,7 @@ border-radius: 10px;
 background-color: #FF921C;
 color: white; 
 border-radius: 7px;
-margin-top: 5%;
+margin-top: 10%;
 
 
 }
@@ -154,4 +141,9 @@ margin-left: -80%;
 	font-size: 25px;
 	margin-top: -3%;
 
+}
+
+.informacao{
+
+	margin-top: -7%;
 }
